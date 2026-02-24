@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+accelerate
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+pyyaml
+tqdm
+wandb
+tensorboard
+scikit-learn
+psutil
